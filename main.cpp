@@ -12,8 +12,10 @@
 #include <backends/imgui_impl_opengl3.h>
 #include <stdio.h>
 
+#include "data/configs.h"
 #include "data/data.h"
 #include "gui/mainWindow.h"
+#include "gui/Tabs/craftingPriceCalc.h"
 #define GL_SILENCE_DEPRECATION
 #if defined(IMGUI_IMPL_OPENGL_ES2)
 #include <GLES2/gl2.h>
@@ -74,7 +76,7 @@ int main(int, char**)
 #endif
 
     // Create window with graphics context
-    GLFWwindow* window = glfwCreateWindow(1280, 720, "Dear ImGui GLFW+OpenGL3 example", nullptr, nullptr);
+    GLFWwindow* window = glfwCreateWindow(1280, 720, "Crafting calculator", nullptr, nullptr);
     if (window == nullptr)
         return 1;
     glfwMakeContextCurrent(window);
@@ -119,6 +121,9 @@ int main(int, char**)
     bool show_demo_window = true;
     bool show_another_window = false;
     ImVec4 clear_color = ImVec4(0.45f, 0.55f, 0.60f, 1.00f);
+    //glfwMaximizeWindow(window);
+    Data::makeCats();
+    craftingCalc::init();
 
     // Main loop
 #ifdef __EMSCRIPTEN__

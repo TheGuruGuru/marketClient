@@ -12,7 +12,7 @@ link_libraries(${JSONCPP_LIBRARIES})
 
 set(CMAKE_CXX_STANDARD 20)
 
-file(GLOB sources *.cpp data/*.cpp gui/*.cpp)
+file(GLOB sources *.cpp data/*.cpp gui/*.cpp gui/Tabs/*.cpp)
 
 add_executable(${PROJECT_NAME} ${sources}
 )
@@ -25,6 +25,6 @@ set_target_properties(ImGui PROPERTIES
     IMPORTED_LOCATION "${IMGUI_DIR}/libImGui.a"
 )
 
-target_include_directories(${PROJECT_NAME} PUBLIC ${jsoncpp_INCLUDE_DIRS} ${OPENSSL_INCLUDE_DIR} ${GLFW_INClUDE_DIRS} ${GLEW_INCLUDE_DIRS} "/home/m-a-d/Programmieren/libs/cpp-httplib")
+target_include_directories(${PROJECT_NAME} PUBLIC ${jsoncpp_INCLUDE_DIRS} ${OPENSSL_INCLUDE_DIR} ${GLFW_INClUDE_DIRS} ${GLEW_INCLUDE_DIRS} "/home/m-a-d/Programmieren/libs/")
 
 target_link_libraries(${PROJECT_NAME} glfw  OpenGL::GL GLEW::GLEW ImGui OpenSSL::SSL ${JSONCPP_LIBRARIES})
