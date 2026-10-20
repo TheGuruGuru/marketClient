@@ -2,5 +2,5 @@
 /cmake-build-release/
 /cmake-build-debug/
 
-.idea/
-.venv/
+/.idea/
+/.venv/
