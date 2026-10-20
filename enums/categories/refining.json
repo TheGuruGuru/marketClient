@@ -1,0 +1,1944 @@
+{
+  "fishing": [
+    {
+      "UniqueName": "T1_FISHCHOPS",
+      "Name": "Chopped Fish",
+      "Tier": "1.0",
+      "Category": "refining",
+      "SubCategory": "fishing",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T1_FISHSAUCE_LEVEL1",
+      "Name": "Basic Fish Sauce",
+      "Tier": "1.0",
+      "Category": "refining",
+      "SubCategory": "fishing",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T1_FISHSAUCE_LEVEL2",
+      "Name": "Fancy Fish Sauce",
+      "Tier": "1.0",
+      "Category": "refining",
+      "SubCategory": "fishing",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T1_FISHSAUCE_LEVEL3",
+      "Name": "Special Fish Sauce",
+      "Tier": "1.0",
+      "Category": "refining",
+      "SubCategory": "fishing",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "animal": [
+    {
+      "UniqueName": "T4_BUTTER",
+      "Name": "Goat's Butter",
+      "Tier": "4.0",
+      "Category": "refining",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_BUTTER",
+      "Name": "Sheep's Butter",
+      "Tier": "6.0",
+      "Category": "refining",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_BUTTER",
+      "Name": "Cow's Butter",
+      "Tier": "8.0",
+      "Category": "refining",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "farm": [
+    {
+      "UniqueName": "T6_ALCOHOL",
+      "Name": "Potato Schnapps",
+      "Tier": "6.0",
+      "Category": "refining",
+      "SubCategory": "farm",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_ALCOHOL",
+      "Name": "Corn Hooch",
+      "Tier": "7.0",
+      "Category": "refining",
+      "SubCategory": "farm",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_ALCOHOL",
+      "Name": "Pumpkin Moonshine",
+      "Tier": "8.0",
+      "Category": "refining",
+      "SubCategory": "farm",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_BREAD",
+      "Name": "Bread",
+      "Tier": "4.0",
+      "Category": "refining",
+      "SubCategory": "farm",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FLOUR",
+      "Name": "Flour",
+      "Tier": "3.0",
+      "Category": "refining",
+      "SubCategory": "farm",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "planks": [
+    {
+      "UniqueName": "T7_PLANKS",
+      "Name": "Ashenbark Planks",
+      "Tier": "7.0",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_PLANKS",
+      "Name": "Whitewood Planks",
+      "Tier": "8.0",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_PLANKS_LEVEL1@1",
+      "Name": "Uncommon Pine Planks",
+      "Tier": "4.1",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_PLANKS_LEVEL1@1",
+      "Name": "Uncommon Cedar Planks",
+      "Tier": "5.1",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_PLANKS_LEVEL1@1",
+      "Name": "Uncommon Bloodoak Planks",
+      "Tier": "6.1",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_PLANKS_LEVEL1@1",
+      "Name": "Uncommon Ashenbark Planks",
+      "Tier": "7.1",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_PLANKS_LEVEL1@1",
+      "Name": "Uncommon Whitewood Planks",
+      "Tier": "8.1",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_PLANKS_LEVEL2@2",
+      "Name": "Rare Pine Planks",
+      "Tier": "4.2",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_PLANKS_LEVEL2@2",
+      "Name": "Rare Cedar Planks",
+      "Tier": "5.2",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_PLANKS_LEVEL2@2",
+      "Name": "Rare Bloodoak Planks",
+      "Tier": "6.2",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_PLANKS_LEVEL2@2",
+      "Name": "Rare Ashenbark Planks",
+      "Tier": "7.2",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_PLANKS_LEVEL2@2",
+      "Name": "Rare Whitewood Planks",
+      "Tier": "8.2",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_PLANKS_LEVEL3@3",
+      "Name": "Exceptional Pine Planks",
+      "Tier": "4.3",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_PLANKS_LEVEL3@3",
+      "Name": "Exceptional Cedar Planks",
+      "Tier": "5.3",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_PLANKS_LEVEL3@3",
+      "Name": "Exceptional Ashenbark Planks",
+      "Tier": "7.3",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_PLANKS_LEVEL3@3",
+      "Name": "Exceptional Whitewood Planks",
+      "Tier": "8.3",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_PLANKS_LEVEL4@4",
+      "Name": "Pristine Pine Planks",
+      "Tier": "4.4",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_PLANKS_LEVEL4@4",
+      "Name": "Pristine Cedar Planks",
+      "Tier": "5.4",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_PLANKS_LEVEL4@4",
+      "Name": "Pristine Bloodoak Planks",
+      "Tier": "6.4",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_PLANKS_LEVEL4@4",
+      "Name": "Pristine Ashenbark Planks",
+      "Tier": "7.4",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_PLANKS_LEVEL4@4",
+      "Name": "Pristine Whitewood Planks",
+      "Tier": "8.4",
+      "Category": "refining",
+      "SubCategory": "planks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "uncategorized": [
+    {
+      "UniqueName": "T6_PLANKS_LEVEL3@3",
+      "Name": "Exceptional Bloodoak Planks",
+      "Tier": "6.3",
+      "Category": "refining",
+      "SubCategory": "",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "UniqueName": "T2_STONEBLOCK",
+      "Name": "Limestone Block",
+      "Tier": "2.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_STONEBLOCK",
+      "Name": "Sandstone Block",
+      "Tier": "3.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_STONEBLOCK",
+      "Name": "Travertine Block",
+      "Tier": "4.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_STONEBLOCK",
+      "Name": "Granite Block",
+      "Tier": "5.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_STONEBLOCK",
+      "Name": "Slate Block",
+      "Tier": "6.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_STONEBLOCK",
+      "Name": "Basalt Block",
+      "Tier": "7.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_STONEBLOCK",
+      "Name": "Marble Block",
+      "Tier": "8.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_METALBAR",
+      "Name": "Copper Bar",
+      "Tier": "2.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_METALBAR",
+      "Name": "Bronze Bar",
+      "Tier": "3.0",
+      "Category": "refining",
+      "SubCategory": "blocks",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "bars": [
+    {
+      "UniqueName": "T4_METALBAR",
+      "Name": "Steel Bar",
+      "Tier": "4.0",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_METALBAR",
+      "Name": "Titanium Steel Bar",
+      "Tier": "5.0",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_METALBAR",
+      "Name": "Runite Steel Bar",
+      "Tier": "6.0",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_METALBAR",
+      "Name": "Meteorite Steel Bar",
+      "Tier": "7.0",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_METALBAR",
+      "Name": "Adamantium Steel Bar",
+      "Tier": "8.0",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_METALBAR_LEVEL1@1",
+      "Name": "Uncommon Steel Bar",
+      "Tier": "4.1",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_METALBAR_LEVEL1@1",
+      "Name": "Uncommon Titanium Steel Bar",
+      "Tier": "5.1",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_METALBAR_LEVEL1@1",
+      "Name": "Uncommon Runite Steel Bar",
+      "Tier": "6.1",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_METALBAR_LEVEL1@1",
+      "Name": "Uncommon Meteorite Steel Bar",
+      "Tier": "7.1",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_METALBAR_LEVEL1@1",
+      "Name": "Uncommon Adamantium Steel Bar",
+      "Tier": "8.1",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_METALBAR_LEVEL2@2",
+      "Name": "Rare Steel Bar",
+      "Tier": "4.2",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_METALBAR_LEVEL2@2",
+      "Name": "Rare Titanium Steel Bar",
+      "Tier": "5.2",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_METALBAR_LEVEL2@2",
+      "Name": "Rare Runite Steel Bar",
+      "Tier": "6.2",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_METALBAR_LEVEL2@2",
+      "Name": "Rare Meteorite Steel Bar",
+      "Tier": "7.2",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_METALBAR_LEVEL2@2",
+      "Name": "Rare Adamantium Steel Bar",
+      "Tier": "8.2",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_METALBAR_LEVEL3@3",
+      "Name": "Exceptional Steel Bar",
+      "Tier": "4.3",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_METALBAR_LEVEL3@3",
+      "Name": "Exceptional Titanium Steel Bar",
+      "Tier": "5.3",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_METALBAR_LEVEL3@3",
+      "Name": "Exceptional Runite Steel Bar",
+      "Tier": "6.3",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_METALBAR_LEVEL3@3",
+      "Name": "Exceptional Meteorite Steel Bar",
+      "Tier": "7.3",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_METALBAR_LEVEL3@3",
+      "Name": "Exceptional Adamantium Steel Bar",
+      "Tier": "8.3",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_METALBAR_LEVEL4@4",
+      "Name": "Pristine Steel Bar",
+      "Tier": "4.4",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_METALBAR_LEVEL4@4",
+      "Name": "Pristine Titanium Steel Bar",
+      "Tier": "5.4",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_METALBAR_LEVEL4@4",
+      "Name": "Pristine Runite Steel Bar",
+      "Tier": "6.4",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_METALBAR_LEVEL4@4",
+      "Name": "Pristine Meteorite Steel Bar",
+      "Tier": "7.4",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_METALBAR_LEVEL4@4",
+      "Name": "Pristine Adamantium Steel Bar",
+      "Tier": "8.4",
+      "Category": "refining",
+      "SubCategory": "bars",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "leather": [
+    {
+      "UniqueName": "T2_LEATHER",
+      "Name": "Stiff Leather",
+      "Tier": "2.0",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_LEATHER",
+      "Name": "Thick Leather",
+      "Tier": "3.0",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_LEATHER",
+      "Name": "Worked Leather",
+      "Tier": "4.0",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_LEATHER",
+      "Name": "Cured Leather",
+      "Tier": "5.0",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_LEATHER",
+      "Name": "Hardened Leather",
+      "Tier": "6.0",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_LEATHER",
+      "Name": "Reinforced Leather",
+      "Tier": "7.0",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_LEATHER",
+      "Name": "Fortified Leather",
+      "Tier": "8.0",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_LEATHER_LEVEL1@1",
+      "Name": "Uncommon Worked Leather",
+      "Tier": "4.1",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_LEATHER_LEVEL1@1",
+      "Name": "Uncommon Cured Leather",
+      "Tier": "5.1",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_LEATHER_LEVEL1@1",
+      "Name": "Uncommon Hardened Leather",
+      "Tier": "6.1",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_LEATHER_LEVEL1@1",
+      "Name": "Uncommon Reinforced Leather",
+      "Tier": "7.1",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_LEATHER_LEVEL1@1",
+      "Name": "Uncommon Fortified Leather",
+      "Tier": "8.1",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_LEATHER_LEVEL2@2",
+      "Name": "Rare Worked Leather",
+      "Tier": "4.2",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_LEATHER_LEVEL2@2",
+      "Name": "Rare Cured Leather",
+      "Tier": "5.2",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_LEATHER_LEVEL2@2",
+      "Name": "Rare Hardened Leather",
+      "Tier": "6.2",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_LEATHER_LEVEL2@2",
+      "Name": "Rare Reinforced Leather",
+      "Tier": "7.2",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_LEATHER_LEVEL2@2",
+      "Name": "Rare Fortified Leather",
+      "Tier": "8.2",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_LEATHER_LEVEL3@3",
+      "Name": "Exceptional Worked Leather",
+      "Tier": "4.3",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_LEATHER_LEVEL3@3",
+      "Name": "Exceptional Cured Leather",
+      "Tier": "5.3",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_LEATHER_LEVEL3@3",
+      "Name": "Exceptional Hardened Leather",
+      "Tier": "6.3",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_LEATHER_LEVEL3@3",
+      "Name": "Exceptional Reinforced Leather",
+      "Tier": "7.3",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_LEATHER_LEVEL3@3",
+      "Name": "Exceptional Fortified Leather",
+      "Tier": "8.3",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_LEATHER_LEVEL4@4",
+      "Name": "Pristine Worked Leather",
+      "Tier": "4.4",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_LEATHER_LEVEL4@4",
+      "Name": "Pristine Cured Leather",
+      "Tier": "5.4",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_LEATHER_LEVEL4@4",
+      "Name": "Pristine Hardened Leather",
+      "Tier": "6.4",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_LEATHER_LEVEL4@4",
+      "Name": "Pristine Reinforced Leather",
+      "Tier": "7.4",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_LEATHER_LEVEL4@4",
+      "Name": "Pristine Fortified Leather",
+      "Tier": "8.4",
+      "Category": "refining",
+      "SubCategory": "leather",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "cloth": [
+    {
+      "UniqueName": "T2_CLOTH",
+      "Name": "Simple Cloth",
+      "Tier": "2.0",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_CLOTH",
+      "Name": "Neat Cloth",
+      "Tier": "3.0",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CLOTH",
+      "Name": "Fine Cloth",
+      "Tier": "4.0",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CLOTH",
+      "Name": "Ornate Cloth",
+      "Tier": "5.0",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_CLOTH",
+      "Name": "Lavish Cloth",
+      "Tier": "6.0",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_CLOTH",
+      "Name": "Opulent Cloth",
+      "Tier": "7.0",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_CLOTH",
+      "Name": "Baroque Cloth",
+      "Tier": "8.0",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CLOTH_LEVEL1@1",
+      "Name": "Uncommon Fine Cloth",
+      "Tier": "4.1",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CLOTH_LEVEL1@1",
+      "Name": "Uncommon Ornate Cloth",
+      "Tier": "5.1",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_CLOTH_LEVEL1@1",
+      "Name": "Uncommon Lavish Cloth",
+      "Tier": "6.1",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_CLOTH_LEVEL1@1",
+      "Name": "Uncommon Opulent Cloth",
+      "Tier": "7.1",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_CLOTH_LEVEL1@1",
+      "Name": "Uncommon Baroque Cloth",
+      "Tier": "8.1",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CLOTH_LEVEL2@2",
+      "Name": "Rare Fine Cloth",
+      "Tier": "4.2",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_CLOTH_LEVEL2@2",
+      "Name": "Rare Lavish Cloth",
+      "Tier": "6.2",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_CLOTH_LEVEL2@2",
+      "Name": "Rare Opulent Cloth",
+      "Tier": "7.2",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_CLOTH_LEVEL2@2",
+      "Name": "Rare Baroque Cloth",
+      "Tier": "8.2",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CLOTH_LEVEL3@3",
+      "Name": "Exceptional Fine Cloth",
+      "Tier": "4.3",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CLOTH_LEVEL3@3",
+      "Name": "Exceptional Ornate Cloth",
+      "Tier": "5.3",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_CLOTH_LEVEL3@3",
+      "Name": "Exceptional Lavish Cloth",
+      "Tier": "6.3",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_CLOTH_LEVEL3@3",
+      "Name": "Exceptional Opulent Cloth",
+      "Tier": "7.3",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_CLOTH_LEVEL3@3",
+      "Name": "Exceptional Baroque Cloth",
+      "Tier": "8.3",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CLOTH_LEVEL4@4",
+      "Name": "Pristine Fine Cloth",
+      "Tier": "4.4",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CLOTH_LEVEL4@4",
+      "Name": "Pristine Ornate Cloth",
+      "Tier": "5.4",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_CLOTH_LEVEL4@4",
+      "Name": "Pristine Lavish Cloth",
+      "Tier": "6.4",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_CLOTH_LEVEL4@4",
+      "Name": "Pristine Opulent Cloth",
+      "Tier": "7.4",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_CLOTH_LEVEL4@4",
+      "Name": "Pristine Baroque Cloth",
+      "Tier": "8.4",
+      "Category": "refining",
+      "SubCategory": "cloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "ccloth": [
+    {
+      "UniqueName": "T5_CLOTH_LEVEL2@2",
+      "Name": "Rare Ornate Cloth",
+      "Tier": "5.2",
+      "Category": "refining",
+      "SubCategory": "ccloth",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "potions": [
+    {
+      "UniqueName": "T1_ALCHEMY_EXTRACT_LEVEL1",
+      "Name": "Basic Arcane Extract",
+      "Tier": "1.0",
+      "Category": "refining ",
+      "SubCategory": "potions",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T1_ALCHEMY_EXTRACT_LEVEL2",
+      "Name": "Refined Arcane Extract",
+      "Tier": "1.0",
+      "Category": "refining",
+      "SubCategory": "potions",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T1_ALCHEMY_EXTRACT_LEVEL3",
+      "Name": "Pure Arcane Extract",
+      "Tier": "1.0",
+      "Category": "refining",
+      "SubCategory": "potions",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_ESSENCE_POTION",
+      "Name": "Adept's Arcane Essence",
+      "Tier": "4.0",
+      "Category": "refining",
+      "SubCategory": "potions",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_ESSENCE",
+      "Name": "Adept's Faded Essence",
+      "Tier": "4.0",
+      "Category": "refining",
+      "SubCategory": "potions",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_ESSENCE_POTION",
+      "Name": "Expert's Arcane Essence",
+      "Tier": "5.0",
+      "Category": "loot ",
+      "SubCategory": "rune",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ]
+}

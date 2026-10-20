@@ -1,0 +1,8448 @@
+{
+  "seeds": [
+    {
+      "UniqueName": "T1_FARM_CARROT_SEED",
+      "Name": "Carrot Seeds",
+      "Tier": "1.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_FARM_BEAN_SEED",
+      "Name": "Bean Seeds",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FARM_WHEAT_SEED",
+      "Name": "Wheat Seeds",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_TURNIP_SEED",
+      "Name": "Turnip Seeds",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_CABBAGE_SEED",
+      "Name": "Cabbage Seeds",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_POTATO_SEED",
+      "Name": "Potato Seeds",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_CORN_SEED",
+      "Name": "Corn Seeds",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_PUMPKIN_SEED",
+      "Name": "Pumpkin Seeds",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_FARM_AGARIC_SEED",
+      "Name": "Arcane Agaric Seeds",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FARM_COMFREY_SEED",
+      "Name": "Brightleaf Comfrey Seeds",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_BURDOCK_SEED",
+      "Name": "Crenellated Burdock Seeds",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_TEASEL_SEED",
+      "Name": "Dragon Teasel Seeds",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_FOXGLOVE_SEED",
+      "Name": "Elusive Foxglove Seeds",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_MULLEIN_SEED",
+      "Name": "Firetouched Mullein Seeds",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_YARROW_SEED",
+      "Name": "Ghoul Yarrow Seeds",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "seeds",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "animal": [
+    {
+      "UniqueName": "T8_FARM_DRAKE_BABY",
+      "Name": "Firewing Drake Egg",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DRAKE_GROWN",
+      "Name": "Tame Firewing Drake",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FARM_OX_BABY",
+      "Name": "Journeyman's Ox Calf",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_OX_BABY",
+      "Name": "Adept's Ox Calf",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_OX_BABY",
+      "Name": "Expert's Ox Calf",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_OX_BABY",
+      "Name": "Master's Ox Calf",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_OX_BABY",
+      "Name": "Grandmaster's Ox Calf",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_OX_BABY",
+      "Name": "Elder's Ox Calf",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FARM_OX_GROWN",
+      "Name": "Journeyman's Ox",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_OX_GROWN",
+      "Name": "Adept's Ox",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_OX_GROWN",
+      "Name": "Expert's Ox",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_OX_GROWN",
+      "Name": "Master's Ox",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_OX_GROWN",
+      "Name": "Grandmaster's Ox",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_OX_GROWN",
+      "Name": "Elder's Ox",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FARM_HORSE_BABY",
+      "Name": "Journeyman's Foal",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_HORSE_BABY",
+      "Name": "Adept's Foal",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_HORSE_BABY",
+      "Name": "Expert's Foal",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_HORSE_BABY",
+      "Name": "Master's Foal",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_HORSE_BABY",
+      "Name": "Grandmaster's Foal",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_HORSE_BABY",
+      "Name": "Elder's Foal",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FARM_HORSE_GROWN",
+      "Name": "Journeyman's Horse",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_HORSE_GROWN",
+      "Name": "Adept's Horse",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_HORSE_GROWN",
+      "Name": "Expert's Horse",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_HORSE_GROWN",
+      "Name": "Master's Horse",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_HORSE_GROWN",
+      "Name": "Grandmaster's Horse",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_HORSE_GROWN",
+      "Name": "Elder's Horse",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_DIREWOLF_BABY",
+      "Name": "Direwolf Pup",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_DIREBOAR_BABY",
+      "Name": "Direboar Piglet",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DIREBEAR_BABY",
+      "Name": "Direbear Cub",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_SWAMPDRAGON_BABY",
+      "Name": "Swamp Dragon Pup",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_MAMMOTH_BABY",
+      "Name": "Mammoth Calf",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_COUGAR_BABY",
+      "Name": "Swiftclaw Cub",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DIREWOLF_BABY",
+      "Name": "Ghostwolf Pup",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_GIANTSTAG_BABY",
+      "Name": "Adept's Fawn",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_GIANTSTAG_BABY",
+      "Name": "Master's Fawn",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_GIANTSTAG_MOOSE_BABY",
+      "Name": "Moose Calf",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_RABBIT_EASTER_BABY",
+      "Name": "Vibrant Spring Cottontail Egg",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_RABBIT_EASTER_BABY_DARK",
+      "Name": "Eerie Cottontail Egg",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_RABBIT_EASTER_GROWN",
+      "Name": "Tame Spring Cottontail",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_RABBIT_EASTER_GROWN_DARK",
+      "Name": "\"Tame\" Caerleon Cottontail",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_MOABIRD_FW_BRIDGEWATCH_BABY",
+      "Name": "Baby Moabird",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_DIREBEAR_FW_FORTSTERLING_BABY",
+      "Name": "Winter Bear Cub",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_DIREBOAR_FW_LYMHURST_BABY",
+      "Name": "Wild Boarlet",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_RAM_FW_MARTLOCK_BABY",
+      "Name": "Bighorn Ram Lamb",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_SWAMPDRAGON_FW_THETFORD_BABY",
+      "Name": "Baby Swamp Salamander",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_GREYWOLF_FW_CAERLEON_BABY",
+      "Name": "Caerleon Greywolf Pup",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_OWL_FW_BRECILIEN_BABY",
+      "Name": "Mystic Owlet",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_SPIDER_HELL_BABY",
+      "Name": "Hellspinner Baby",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_MOABIRD_FW_BRIDGEWATCH_BABY",
+      "Name": "Baby Elite Terrorbird",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DIREBEAR_FW_FORTSTERLING_BABY",
+      "Name": "Elite Winter Bear Cub",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DIREBOAR_FW_LYMHURST_BABY",
+      "Name": "Elite Wild Boarlet",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_RAM_FW_MARTLOCK_BABY",
+      "Name": "Elite Bighorn Ram Lamb",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_SWAMPDRAGON_FW_THETFORD_BABY",
+      "Name": "Baby Elite Swamp Salamander",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_GREYWOLF_FW_CAERLEON_BABY",
+      "Name": "Elite Greywolf Pup",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_OWL_FW_BRECILIEN_BABY",
+      "Name": "Elite Mystic Owlet",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_SPIDER_HELL_BABY",
+      "Name": "Soulspinner Baby",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_DIREWOLF_GROWN",
+      "Name": "Tame Direwolf",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_DIREBOAR_GROWN",
+      "Name": "Tame Direboar",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DIREBEAR_GROWN",
+      "Name": "Tame Direbear",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_SWAMPDRAGON_GROWN",
+      "Name": "Tame Swamp Dragon",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_MAMMOTH_GROWN",
+      "Name": "Tame Mammoth",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_COUGAR_GROWN",
+      "Name": "Tame Swiftclaw",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DIREWOLF_GROWN",
+      "Name": "Tame Ghostwolf",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_GIANTSTAG_GROWN",
+      "Name": "Adept's Tame Giant Stag",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_GIANTSTAG_GROWN",
+      "Name": "Master's Tame Giant Stag",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_GIANTSTAG_MOOSE_GROWN",
+      "Name": "Tame Moose",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_MOABIRD_FW_BRIDGEWATCH_GROWN",
+      "Name": "Tame Moabird",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_DIREBEAR_FW_FORTSTERLING_GROWN",
+      "Name": "Tame Winter Bear",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_DIREBOAR_FW_LYMHURST_GROWN",
+      "Name": "Tame Wild Boar",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_RAM_FW_MARTLOCK_GROWN",
+      "Name": "Tame Bighorn Ram",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_SWAMPDRAGON_FW_THETFORD_GROWN",
+      "Name": "Tame Swamp Salamander",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_GREYWOLF_FW_CAERLEON_GROWN",
+      "Name": "Tame Greywolf",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_OWL_FW_BRECILIEN_GROWN",
+      "Name": "Tame Mystic Owl",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_SPIDER_HELL_GROWN",
+      "Name": "Tame Hellspinner",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_MOABIRD_FW_BRIDGEWATCH_GROWN",
+      "Name": "Tame Elite Terrorbird",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DIREBEAR_FW_FORTSTERLING_GROWN",
+      "Name": "Tame Elite Winter Bear",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_DIREBOAR_FW_LYMHURST_GROWN",
+      "Name": "Tame Elite Wild Boar",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_RAM_FW_MARTLOCK_GROWN",
+      "Name": "Tame Elite Bighorn Ram",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_SWAMPDRAGON_FW_THETFORD_GROWN",
+      "Name": "Tame Elite Swamp Salamander",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_GREYWOLF_FW_CAERLEON_GROWN",
+      "Name": "Tame Elite Greywolf",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_OWL_FW_BRECILIEN_GROWN",
+      "Name": "Tame Elite Mystic Owl",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_SPIDER_HELL_GROWN",
+      "Name": "Tame Soulspinner",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FARM_CHICKEN_BABY",
+      "Name": "Baby Chickens",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_GOAT_BABY",
+      "Name": "Kid",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_GOOSE_BABY",
+      "Name": "Gosling",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_SHEEP_BABY",
+      "Name": "Lamb",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_PIG_BABY",
+      "Name": "Piglet",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_COW_BABY",
+      "Name": "Calf",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FARM_CHICKEN_GROWN",
+      "Name": "Chicken",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FARM_GOAT_GROWN",
+      "Name": "Goat",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FARM_GOOSE_GROWN",
+      "Name": "Goose",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FARM_SHEEP_GROWN",
+      "Name": "Sheep",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FARM_PIG_GROWN",
+      "Name": "Pig",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FARM_COW_GROWN",
+      "Name": "Cow",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "UniqueName": "T6_MOUNTUPGRADE_GIANTSTAG_XMAS",
+      "Name": "deleted",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "upgrades",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNTUPGRADE_RAM_XMAS",
+      "Name": "Decorative Ram Bridle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "upgrades",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNTUPGRADE_HORSE_CURSE",
+      "Name": "Necromantic Elixir",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "upgrades",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNTUPGRADE_HORSE_CURSE",
+      "Name": "Spectral Mask",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "upgrades",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNTUPGRADE_COUGAR_KEEPER",
+      "Name": "Sacred Bone Marrow",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "upgrades",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNTUPGRADE_HORSE_MORGANA",
+      "Name": "Morgana Mare Saddle",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "upgrades",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNTUPGRADE_HORSE_MORGANA",
+      "Name": "Infernal Horseshoes",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "upgrades",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "plant": [
+    {
+      "UniqueName": "T1_CARROT",
+      "Name": "Carrots",
+      "Tier": "1.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_BEAN",
+      "Name": "Beans",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_WHEAT",
+      "Name": "Sheaf of Wheat",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_TURNIP",
+      "Name": "Turnips",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CABBAGE",
+      "Name": "Cabbage",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_POTATO",
+      "Name": "Potatoes",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_CORN",
+      "Name": "Bundle of Corn",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_PUMPKIN",
+      "Name": "Pumpkin",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_AGARIC",
+      "Name": "Arcane Agaric",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_COMFREY",
+      "Name": "Brightleaf Comfrey",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_BURDOCK",
+      "Name": "Crenellated Burdock",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_TEASEL",
+      "Name": "Dragon Teasel",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FOXGLOVE",
+      "Name": "Elusive Foxglove",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MULLEIN",
+      "Name": "Firetouched Mullein",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_YARROW",
+      "Name": "Ghoul Yarrow",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "plant",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "animal_product": [
+    {
+      "UniqueName": "T3_EGG",
+      "Name": "Hen Eggs",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "animal_product",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_MILK",
+      "Name": "Goat's Milk",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "animal_product",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_EGG",
+      "Name": "Goose Eggs",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "animal_product",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MILK",
+      "Name": "Sheep's Milk",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "animal_product",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MILK",
+      "Name": "Cow's Milk",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "animal_product",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "meat": [
+    {
+      "UniqueName": "T4_MEAT",
+      "Name": "Raw Goat",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "meat",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MEAT",
+      "Name": "Raw Goose",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "meat",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MEAT",
+      "Name": "Raw Mutton",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "meat",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MEAT",
+      "Name": "Raw Pork",
+      "Tier": "7.0",
+      "Category": "farming meat",
+      "SubCategory": "meat",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MEAT",
+      "Name": "Raw Beef",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "meat",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "mount": [
+    {
+      "UniqueName": "T2_MOUNT_MULE",
+      "Name": "Novice's Mule",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_MOUNT_HORSE",
+      "Name": "Journeyman's Riding Horse",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_MOUNT_HORSE",
+      "Name": "Adept's Riding Horse",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_HORSE",
+      "Name": "Expert's Riding Horse",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MOUNT_HORSE",
+      "Name": "Master's Riding Horse",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_HORSE",
+      "Name": "Grandmaster's Riding Horse",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_HORSE",
+      "Name": "Elder's Riding Horse",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_ARMORED_HORSE",
+      "Name": "Expert's Armored Horse",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MOUNT_ARMORED_HORSE",
+      "Name": "Master's Armored Horse",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_ARMORED_HORSE",
+      "Name": "Grandmaster's Armored Horse",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_ARMORED_HORSE",
+      "Name": "Elder's Armored Horse",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_MOUNT_OX",
+      "Name": "Journeyman's Transport Ox",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_MOUNT_OX",
+      "Name": "Adept's Transport Ox",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_OX",
+      "Name": "Expert's Transport Ox",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MOUNT_OX",
+      "Name": "Master's Transport Ox",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_OX",
+      "Name": "Grandmaster's Transport Ox",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_OX",
+      "Name": "Elder's Transport Ox",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_MOUNT_GIANTSTAG",
+      "Name": "Adept's Giant Stag",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MOUNT_GIANTSTAG_MOOSE",
+      "Name": "Moose",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MOUNT_DIREWOLF",
+      "Name": "Direwolf",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_DIREBOAR",
+      "Name": "Saddled Direboar",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_SWAMPDRAGON",
+      "Name": "Saddled Swamp Dragon",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_DIREBEAR",
+      "Name": "Saddled Direbear",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_MAMMOTH_TRANSPORT",
+      "Name": "Elder's Transport Mammoth",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_MOABIRD_FW_BRIDGEWATCH",
+      "Name": "Saddled Moabird",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_DIREBEAR_FW_FORTSTERLING",
+      "Name": "Saddled Winter Bear",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_DIREBOAR_FW_LYMHURST",
+      "Name": "Saddled Wild Boar",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_RAM_FW_MARTLOCK",
+      "Name": "Saddled Bighorn Ram",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_SWAMPDRAGON_FW_THETFORD",
+      "Name": "Saddled Swamp Salamander",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_GREYWOLF_FW_CAERLEON",
+      "Name": "Saddled Greywolf",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_OWL_FW_BRECILIEN",
+      "Name": "Saddled Mystic Owl",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_MOABIRD_FW_BRIDGEWATCH_ELITE",
+      "Name": "Elite Terrorbird",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_DIREBEAR_FW_FORTSTERLING_ELITE",
+      "Name": "Elite Winter Bear",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_DIREBOAR_FW_LYMHURST_ELITE",
+      "Name": "Elite Wild Boar",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_RAM_FW_MARTLOCK_ELITE",
+      "Name": "Elite Bighorn Ram",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_SWAMPDRAGON_FW_THETFORD_ELITE",
+      "Name": "Elite Swamp Salamander",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_GREYWOLF_FW_CAERLEON_ELITE",
+      "Name": "Elite Greywolf",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_OWL_FW_BRECILIEN_ELITE",
+      "Name": "Elite Mystic Owl",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_SPIDER_HELL",
+      "Name": "Hellspinner",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_SPIDER_HELL",
+      "Name": "Soulspinner",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_DRAKE_FIRE",
+      "Name": "Firewing Drake",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_MAMMOTH_BATTLE@1",
+      "Name": "Elder's Command Mammoth",
+      "Tier": "8.1",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_SWAMPDRAGON_BATTLE",
+      "Name": "Flame Basilisk",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_ARMORED_SWAMPDRAGON_BATTLE",
+      "Name": "Venom Basilisk",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MOUNT_SIEGE_BALLISTA",
+      "Name": "Siege Ballista",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_HORSE_UNDEAD@1",
+      "Name": "Spectral Bonehorse",
+      "Tier": "8.1",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_COUGAR_KEEPER@1",
+      "Name": "Swiftclaw",
+      "Tier": "5.1",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_COUGAR_KEEPER@1",
+      "Name": "Rageclaw",
+      "Tier": "8.1",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_ARMORED_HORSE_MORGANA@1",
+      "Name": "Morgana Nightmare",
+      "Tier": "8.1",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_RABBIT_EASTER",
+      "Name": "Spring Cottontail",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_RABBIT_EASTER_DARK@1",
+      "Name": "Caerleon Cottontail",
+      "Tier": "8.1",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_RAM_XMAS",
+      "Name": "Yule Ram",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_SWAMPDRAGON_AVALON_BASILISK",
+      "Name": "Avalonian Basilisk",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_RAM_TELLAFRIEND",
+      "Name": "Recruiter's Ram",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_MOABIRD_TELLAFRIEND",
+      "Name": "Recruiter's Moabird",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BAT_TELLAFRIEND",
+      "Name": "Recruiter's Saddled Bat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_GIANTTOAD_TELLAFRIEND",
+      "Name": "Recruiter's Toad",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_PANDA_TELLAFRIEND",
+      "Name": "",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_GIANTTOAD_02_TELLAFRIEND",
+      "Name": "Recruiter's Giant Frog",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_MOUNT_ARMORED_HORSE_SKIN_01",
+      "Name": "Expert's Warhorse",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MOUNT_ARMORED_HORSE_SKIN_01",
+      "Name": "Master's Warhorse",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_ARMORED_HORSE_SKIN_01",
+      "Name": "Grandmaster's Warhorse",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_MOUNT_ARMORED_HORSE_SKIN_01",
+      "Name": "Elder's Warhorse",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BAT_PERSONAL",
+      "Name": "Spectral Bat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_MONITORLIZARD_ADC",
+      "Name": "Pest Lizard",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_HUSKY_ADC",
+      "Name": "Snow Husky",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_MOUNT_FROSTRAM_ADC",
+      "Name": "Frost Ram",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_MOUNT_TERRORBIRD_ADC",
+      "Name": "Saddled Terrorbird",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BEAR_KEEPER_ADC",
+      "Name": "Grizzly Bear",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BLACK_PANTHER_ADC",
+      "Name": "Black Panther",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_MORGANA_RAVEN_ADC",
+      "Name": "Morgana Raven",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_GIANT_HORSE_ADC",
+      "Name": "Gallant Horse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_UNDEAD_DIREBOAR_ADC",
+      "Name": "Spectral Direboar",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_DIVINE_OWL_ADC",
+      "Name": "Divine Owl",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_HERETIC_MULE_ADC",
+      "Name": "Heretic Combat Mule",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_RHINO_SEASON_CRYSTAL",
+      "Name": "Crystal Battle Rhino",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_RHINO_SEASON_GOLD",
+      "Name": "Gold Battle Rhino",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_RHINO_SEASON_SILVER",
+      "Name": "Silver Battle Rhino",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_RHINO_SEASON_BRONZE",
+      "Name": "Bronze Battle Rhino",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_TOWER_CHARIOT_CRYSTAL",
+      "Name": "Crystal Tower Chariot",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_TOWER_CHARIOT_GOLD",
+      "Name": "Gold Tower Chariot",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_TOWER_CHARIOT_SILVER",
+      "Name": "Silver Tower Chariot",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_ARMORED_EAGLE_CRYSTAL",
+      "Name": "Crystal Battle Eagle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_ARMORED_EAGLE_GOLD",
+      "Name": "Gold Battle Eagle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_ARMORED_EAGLE_SILVER",
+      "Name": "Silver Battle Eagle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BEETLE_CRYSTAL",
+      "Name": "Crystal Colossus Beetle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BEETLE_GOLD",
+      "Name": "Gold Colossus Beetle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BEETLE_SILVER",
+      "Name": "Silver Colossus Beetle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BEHEMOTH_CRYSTAL",
+      "Name": "Crystal Behemoth",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BEHEMOTH_GOLD",
+      "Name": "Gold Behemoth",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BEHEMOTH_SILVER",
+      "Name": "Silver Behemoth",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_ENT_CRYSTAL",
+      "Name": "Crystal Ancient Ent",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_ENT_GOLD",
+      "Name": "Gold Ancient Ent",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_ENT_SILVER",
+      "Name": "Silver Ancient Ent",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BATTLESPIDER_CRYSTAL",
+      "Name": "Crystal Goliath Horseeater",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BATTLESPIDER_GOLD",
+      "Name": "Gold Goliath Horseeater",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BATTLESPIDER_SILVER",
+      "Name": "Silver Goliath Horseeater",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BASTION_CRYSTAL",
+      "Name": "Crystal Roving Bastion",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BASTION_GOLD",
+      "Name": "Gold Roving Bastion",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_BASTION_SILVER",
+      "Name": "Silver Roving Bastion",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_JUGGERNAUT_CRYSTAL",
+      "Name": "Crystal Juggernaut",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_JUGGERNAUT_GOLD",
+      "Name": "Gold Juggernaut",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_JUGGERNAUT_SILVER",
+      "Name": "Silver Juggernaut",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_TANKBEETLE_CRYSTAL",
+      "Name": "Crystal Phalanx Beetle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_TANKBEETLE_GOLD",
+      "Name": "Gold Phalanx Beetle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_TANKBEETLE_SILVER",
+      "Name": "Silver Phalanx Beetle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_RHINO_TELLAFRIEND",
+      "Name": "",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_MOUNT_GIANTSTAG_FOUNDER_EPIC",
+      "Name": "Epic Explorer's Giant Stag",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FURNITUREITEM_REPAIRKIT",
+      "Name": "Adept's Repair Kit",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FURNITUREITEM_REPAIRKIT",
+      "Name": "Expert's Repair Kit",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FURNITUREITEM_REPAIRKIT",
+      "Name": "Master's Repair Kit",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "mount",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ],
+  "furniture": [
+    {
+      "UniqueName": "T2_FURNITUREITEM_GUILDBANNER_FABRIC",
+      "Name": "Guild Banner on Fabric",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_GUILDBANNER_FABRIC",
+      "Name": "Guild Banner on Fabric",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FURNITUREITEM_GUILDBANNER_FABRIC",
+      "Name": "Guild Banner on Fabric",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FURNITUREITEM_GUILDBANNER_FABRIC",
+      "Name": "Guild Banner on Fabric",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_FURNITUREITEM_GUILDBANNER_SHIELD",
+      "Name": "Guild Banner on Shield",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_GUILDBANNER_SHIELD",
+      "Name": "Guild Banner on Shield",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FURNITUREITEM_GUILDBANNER_SHIELD",
+      "Name": "Guild Banner on Shield",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FURNITUREITEM_GUILDBANNER_SHIELD",
+      "Name": "Guild Banner on Shield",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_ANNIVERSARYBANNER",
+      "Name": "Anniversary Banner - White",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
+      "Name": "Anniversary Banner - Red",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2021",
+      "Name": "Anniversary Banner - Blue",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2022",
+      "Name": "Anniversary Banner - Turquoise",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2023",
+      "Name": "Anniversary Banner - Orange",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2024",
+      "Name": "Anniversary Banner - Purple",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2025",
+      "Name": "Anniversary Banner - Light Blue",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2026",
+      "Name": "Anniversary Banner - Light Green",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_A@1",
+      "Name": "Recruiter's Crate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_B@1",
+      "Name": "Recruiter's Chest",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_C@1",
+      "Name": "Recruiter's Wooden Chest",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_COMPANION@1",
+      "Name": "Recruiter's Companion Crate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_BARREL@1",
+      "Name": "Recruiter's Barrel-crate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_MERLINCUBE@1",
+      "Name": "Recruiter's Merlyn Cube",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_SARCOPHAGUS",
+      "Name": "Recruiter's Sarcophagus Chest",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_DEER_STATUE",
+      "Name": "Recruiter's Deer Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_HUNTER_STATUE",
+      "Name": "Recruiter's Hunter Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_BARREL_B@1",
+      "Name": "Recruiter's Storage-Barrel",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_TELLAFRIEND_BANNER_A",
+      "Name": "Recruiter's Guild Banner",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_FURNITUREITEM_BED",
+      "Name": "Novice's Bed",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_BED",
+      "Name": "Journeyman's Bed",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FURNITUREITEM_BED",
+      "Name": "Adept's Bed",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FURNITUREITEM_BED",
+      "Name": "Expert's Bed",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FURNITUREITEM_BED",
+      "Name": "Master's Bed",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FURNITUREITEM_BED",
+      "Name": "Grandmaster's Bed",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FURNITUREITEM_BED",
+      "Name": "Elder's Bed",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_FURNITUREITEM_CHEST",
+      "Name": "Novice's Chest",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_CHEST",
+      "Name": "Journeyman's Chest",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FURNITUREITEM_CHEST",
+      "Name": "Adept's Chest",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FURNITUREITEM_CHEST",
+      "Name": "Expert's Chest",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_VANITY_CONSUMABLE_FIREWORKS_BLUE",
+      "Name": "Royal Blue Fireworks",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_VANITY_CONSUMABLE_FIREWORKS_GREEN",
+      "Name": "Royal Green Fireworks",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_VANITY_CONSUMABLE_FIREWORKS_YELLOW",
+      "Name": "Royal Yellow Fireworks",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_VANITY_CONSUMABLE_FIREWORKS_RED",
+      "Name": "Royal Red Fireworks",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_VANITY_CONSUMABLE_FIREWORKS_BLUE_NONTRADABLE",
+      "Name": "Royal Blue Fireworks",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_VANITY_CONSUMABLE_FIREWORKS_GREEN_NONTRADABLE",
+      "Name": "Royal Green Fireworks",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_VANITY_CONSUMABLE_FIREWORKS_YELLOW_NONTRADABLE",
+      "Name": "Royal Yellow Fireworks",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_VANITY_CONSUMABLE_FIREWORKS_RED_NONTRADABLE",
+      "Name": "Royal Red Fireworks",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CONSUMABLE_EVENT_WINTER_2017",
+      "Name": "Snowball",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CONSUMABLE_EVENT_EASTER_2020_EGG",
+      "Name": "Surprise Egg",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CONSUMABLE_EVENT_EASTER_2020_CHOCOLATE",
+      "Name": "Chocolate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_ROTTEN_CHOCOLATE_EGG",
+      "Name": "Rotten Chocolate Egg",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CONSUMABLE_EVENT_EASTER_CHOCOLATE_EGG_2025",
+      "Name": "Chocolate Egg",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CONSUMABLE_EVENT_EASTER_CHOCOLATE_EGG_2026",
+      "Name": "",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_FURNITUREITEM_TABLE",
+      "Name": "Novice's Table",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_FURNITUREITEM_TABLE",
+      "Name": "Journeyman's Table",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_FURNITUREITEM_TABLE",
+      "Name": "Adept's Table",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_FURNITUREITEM_TABLE",
+      "Name": "Expert's Table",
+      "Tier": "5.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_FURNITUREITEM_TABLE",
+      "Name": "Master's Table",
+      "Tier": "6.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T7_FURNITUREITEM_TABLE",
+      "Name": "Grandmaster's Table",
+      "Tier": "7.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T8_FURNITUREITEM_TABLE",
+      "Name": "Elder's Table",
+      "Tier": "8.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_EASTER_CHEST",
+      "Name": "Egg-shaped Chest",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_04",
+      "Name": "Modest Arena Display",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_05",
+      "Name": "Grand Arena Display",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_06",
+      "Name": "Glorious Arena Display",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_01",
+      "Name": "Modest Arena Display",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_02",
+      "Name": "Grand Arena Display",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_03",
+      "Name": "Glorious Arena Display",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_B",
+      "Name": "Haystack",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_C",
+      "Name": "Haystack and cart",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_D",
+      "Name": "Tree stump with pumpkins",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_FIREBOWL_A",
+      "Name": "Fire bowl",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_FIREBOWL_B",
+      "Name": "Fire bowl with pedestal",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_MAGIC_EMBLEM_GROUND_A",
+      "Name": "Small arcane stone sigil",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_MAGIC_EMBLEM_GROUND_B",
+      "Name": "Arcane stone sigil",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_NATURE_EMBLEM_GROUND_A",
+      "Name": "Small nature stone sigil",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_NATURE_EMBLEM_GROUND_B",
+      "Name": "Nature stone sigil",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_A",
+      "Name": "Scholar statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_A_BROKEN",
+      "Name": "Broken scholar statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_HUNTER_A",
+      "Name": "Hunting sculpture",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_HUNTER_B",
+      "Name": "Hunter statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_MAGE_A",
+      "Name": "Book sculpture",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_MAGE_B",
+      "Name": "Magician statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_SWORD_A",
+      "Name": "Small sword sculpture",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_SWORD_B",
+      "Name": "Sword sculpture",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_WARRIOR_A",
+      "Name": "Sword and shield sculpture",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_WARRIOR_B",
+      "Name": "Warrior statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_VALOR_EMBLEM_GROUND_A",
+      "Name": "Small valorous stone sigil",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_VALOR_EMBLEM_GROUND_B",
+      "Name": "Valorous stone sigil",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_STONE_WELL_A",
+      "Name": "Stone well",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_A",
+      "Name": "Autumn tree",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_B",
+      "Name": "Summer tree",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_C",
+      "Name": "Spring tree",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DOMESTIC_A",
+      "Name": "Small fruit tree",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DOMESTIC_B",
+      "Name": "Fruit tree",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_BUNTING_A",
+      "Name": "Bunting portal",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_FENCE_WATCHTOWER_A",
+      "Name": "Wooden watchtower",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_FLOOR_SIGN_A",
+      "Name": "Wooden sign",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_GATE_A",
+      "Name": "Wooden entrance",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_GATE_BIG_B",
+      "Name": "Wooden gate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_LAUNDRY_A",
+      "Name": "Clothes line",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_FISH_A",
+      "Name": "Fish line",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_VEGETATION_FLOWER_A",
+      "Name": "Flower vase",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_LANTERN_A",
+      "Name": "Simple lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_LANTERN_CORNER_A",
+      "Name": "Corner lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_CANDELABRA_A",
+      "Name": "Candelabra",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_WOOD_BARREL_A",
+      "Name": "Barrel with candle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_SCARECROW_A",
+      "Name": "Scarecrow",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_FOODCONTAINER_SMALL",
+      "Name": "Barrel",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_FOODCONTAINER_MEDIUM",
+      "Name": "Wheelbarrow",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_FOODCONTAINER_LARGE",
+      "Name": "Crate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_LATRINE_A",
+      "Name": "Latrine",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_WATERTOWER_A",
+      "Name": "Farm Tower",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_BIRDHOUSE_A",
+      "Name": "Birdhouse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_FARM_DOG_HUT_A",
+      "Name": "Doghouse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_FOUNTAIN_A",
+      "Name": "Fountain of Decadence",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_BENCH_A",
+      "Name": "Luxurious Stone Bench",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_STREET_LANTERN_A",
+      "Name": "Ornate Lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_HEDGE_A",
+      "Name": "Long Hedge",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_HEDGE_SMALL_A",
+      "Name": "Small Hedge",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_HEDGE_RECTANGLE_A",
+      "Name": "Tall Hedge",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_HEDGE_PYRAMID_A",
+      "Name": "Pyramid Hedge",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_HEDGE_SPHERE_A",
+      "Name": "Sphere Hedge",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_STONE_PATH_A",
+      "Name": "",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "PLAYERISLAND_FURNITUREITEM_NOBLE_STONE_PATH_PLATFORM_A",
+      "Name": "",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_TORCH_A",
+      "Name": "Flambeau (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_TORCH_C@1",
+      "Name": "Raven Standard Flambeau (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_PENTAGRAM@3",
+      "Name": "Pentagram (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_FIREBOWL_B",
+      "Name": "Simple Brazier (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_FIREBOWL_C@1",
+      "Name": "Reinforced Brazier (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_CAMPFIRE_D@2",
+      "Name": "Cauldron (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_SACRIFICE_ALTAR_A",
+      "Name": "Raven Standard Shrine (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_SIEGE_BALLISTA_A@2",
+      "Name": "Siege Ballista (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_STANDARD_A",
+      "Name": "Raven Standard (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_WEAPONCRATE_A@2",
+      "Name": "Army Crate (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_PRISON_CELL_C@3",
+      "Name": "Prisoner Cage (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_TENT_A@3",
+      "Name": "Soldier's Tent (Disciples of Morgana)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_STATUE_A",
+      "Name": "Morgana Cultist Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_ARCHWAY_A",
+      "Name": "Morgana Stone Archway",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_CANDLESTAND_A",
+      "Name": "Morgana Candle Stand",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_MORGANA_CARPET_A",
+      "Name": "Morgana Carpet",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_SYMBOL_A",
+      "Name": "Keeper Symbol",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_CANDLE_A",
+      "Name": "Keeper Ceremonial Candle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_SHRINE_A",
+      "Name": "Keeper Shrine",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_CAMP_FIRE_A",
+      "Name": "Keeper Campfire",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_ALTAR_A",
+      "Name": "Keeper Altar",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_FLAG_A",
+      "Name": "Keeper Flag",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_SYMBOL_OF_POWER_A",
+      "Name": "Keeper Symbol of Power",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_STAR_OF_POWER_A",
+      "Name": "Keeper Star of Power",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_FIREBOWL",
+      "Name": "Keeper Fire Bowl",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_CAULDRON",
+      "Name": "Keeper Cauldron",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KEEPER_HEATER",
+      "Name": "Keeper Rock Fireplace",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_FOOD_PILE",
+      "Name": "Heretic Food Stash",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_ANIMAL_CAGES",
+      "Name": "Heretic Animal Cages",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_WEAPON_RACK",
+      "Name": "Heretic Weapon Rack",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_TRAINING_DUMMY",
+      "Name": "Heretic Training Dummy",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_PALLISADE",
+      "Name": "Heretic Palisade",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_GAME_TABLE",
+      "Name": "Heretic Game Table",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_FLAG",
+      "Name": "Heretic Flag",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_PLANNING_TABLE",
+      "Name": "Heretic Chief's Table",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_TENT",
+      "Name": "Heretic Tent",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_GRIM_LANTERN",
+      "Name": "Grim Lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_GRIM_HEADSTONE",
+      "Name": "Grim Gravestone",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_GRIM_COFFIN",
+      "Name": "Empty Coffin",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_GRAVE_A",
+      "Name": "Tomb of the Unknown",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_GRAVE_B",
+      "Name": "Memorial of the Fallen",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_GRIM_WEEPINGWOMAN",
+      "Name": "Weeping Woman Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_XMAS_CANDY_BOOT",
+      "Name": "",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_XMAS_BRANCH_A",
+      "Name": "Yuletide Candle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_XMAS_BRANCH_B",
+      "Name": "Yuletide Wreath",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_XMAS_LANTERN",
+      "Name": "Yuletide Lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_XMAS_PRESENT",
+      "Name": "Present Box",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_XMAS_FILL_CITY_TREE_B",
+      "Name": "Small Decorated Pine Tree",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_XMAS_FILL_CITY_TREE_A",
+      "Name": "Decorated Pine Tree",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_FROST_SNOWBALLSTACK_A",
+      "Name": "",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_FROST_SNOWMAN",
+      "Name": "Frost Snowman",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_FROST_LANTERN_A",
+      "Name": "",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_ICESCULPTURE_A",
+      "Name": "Ice Sculpture: Bonecrusher Berserker",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_ICESCULPTURE_B",
+      "Name": "Ice Sculpture: Cursed Archer",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_ICESCULPTURE_C",
+      "Name": "Ice Sculpture: Obsessed Cultist",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_FROST_IGLOO",
+      "Name": "Frost Igloo",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_CARNIVAL_FIREWORK_A",
+      "Name": "Carnival Firework",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_CARNIVAL_ARCHWAY_A",
+      "Name": "Carnival Arch",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_CARNIVAL_MASK_CART",
+      "Name": "Carnival Costume Cart",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_STATUE_MOUNTED_DIREWOLF_A",
+      "Name": "Wolf Rider Statue (L)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_STATUE_MOUNTED_DIREWOLF_B",
+      "Name": "Wolf Rider Statue (R)",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_RUG_DIREBEAR",
+      "Name": "Direbear Rug",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_RUG_WOLF",
+      "Name": "Wolf Rug",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KNIGHT_STATUE_A",
+      "Name": "Knight Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KNIGHT_CARPET_A",
+      "Name": "Regal Carpet",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KNIGHT_THRONE_A",
+      "Name": "Stone Throne",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_KNIGHT_ROUNDTABLE_A",
+      "Name": "Round Table",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_STATUE_MAGE_A",
+      "Name": "Mage Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_HEALING_CIRCLE_A",
+      "Name": "Magic Rune Circle",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_GLASS_SPHERE_A",
+      "Name": "Glass Sphere",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_BARREL_BURNING_A",
+      "Name": "Heretic Burning Barrel",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_LANTERN",
+      "Name": "Heretic Lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_JUNKPILE",
+      "Name": "Heretic Junkpile",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_STOVE_A",
+      "Name": "Heretic Stove",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETICS_TOOL_BOARD_A",
+      "Name": "Heretic Toolboard",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_HERETIC_CONSTRUCT",
+      "Name": "Heretic Scarecrow",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_HALLOWEEN_PUMPKIN_LANTERN_A",
+      "Name": "Scary Pumpkin Lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_HALLOWEEN_PUMPKIN_LANTERN_B",
+      "Name": "Friendly Pumpkin Lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_HALLOWEEN_TREE_LANTERN_A",
+      "Name": "Halloween Lantern",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_HALLOWEEN_CAULDRON_A",
+      "Name": "Halloween Cauldron",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_HALLOWEEN_SCARECROW_A",
+      "Name": "Halloween Scarecrow",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ADC_HALLOWEEN_SCARECROW_PYRE_A",
+      "Name": "Halloween Pyre",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_OLD_OUTLAND_CARPET",
+      "Name": "Outlands Map Carpet",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_SEALED_CAERLEON_REALMGATE",
+      "Name": "Caerleon Realmgate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_ALTAR_OF_CHEATING",
+      "Name": "Click the Pillar for various interactions.",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_VICTORY_TROPHY",
+      "Name": "Skull of $craftedby",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_INGREDIENT_ANCHOR_FOUNDER_LEGENDARY",
+      "Name": "Explorer's Anchor",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_FOUNDER_LOOKINGGLASS",
+      "Name": "Explorer's Spyglass",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_FOUNDER_CERTIFICATE",
+      "Name": "Founder's Certificate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_FOUNDER_STATUE",
+      "Name": "Founder's Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_SHOES_RUBBERBANDING",
+      "Name": "Rubberband Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_HEAD_VANITY_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Sea Captain's Hat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_ARMOR_VANITY_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Sea Captain's Coat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_SHOES_VANITY_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Sea Captain's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CAPE_VANITY_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Sea Captain's Spyglass",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_HORSE_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Sea Captain's Horse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_CAPE_VANITY_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Wardrobe Skin: Sea Captain's Spyglass",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_HEAD_VANITY_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Wardrobe Skin: Sea Captain's Hat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_ARMOR_VANITY_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Wardrobe Skin: Sea Captain's Coat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SHOES_VANITY_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Wardrobe Skin: Sea Captain's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SKIN_HORSE_FOUNDER_ASIA_CRYSTAL",
+      "Name": "Riding Horse Skin: Sea Captain's Horse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ASIA_FOUNDER_CERTIFICATE_CRYSTAL",
+      "Name": "Crystal Founder's Certificate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ASIA_FOUNDER_STATUE_CRYSTAL",
+      "Name": "Crystal Founder's Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_HEAD_VANITY_FOUNDER_ASIA_GOLD",
+      "Name": "Seafarer's Bandana",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_ARMOR_VANITY_FOUNDER_ASIA_GOLD",
+      "Name": "Seafarer's Coat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_SHOES_VANITY_FOUNDER_ASIA_GOLD",
+      "Name": "Seafarer's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CAPE_VANITY_FOUNDER_ASIA_GOLD",
+      "Name": "Seafarer's Harpoon",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_HORSE_FOUNDER_ASIA_GOLD",
+      "Name": "Seafarer's Horse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_CAPE_VANITY_FOUNDER_ASIA_GOLD",
+      "Name": "Wardrobe Skin: Seafarer's Harpoon",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_HEAD_VANITY_FOUNDER_ASIA_GOLD",
+      "Name": "Wardrobe Skin: Seafarer's Bandana",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_ARMOR_VANITY_FOUNDER_ASIA_GOLD",
+      "Name": "Wardrobe Skin: Seafarer's Coat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SHOES_VANITY_FOUNDER_ASIA_GOLD",
+      "Name": "Wardrobe Skin: Seafarer's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SKIN_HORSE_FOUNDER_ASIA_GOLD",
+      "Name": "Riding Horse Skin: Seafarer's Horse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ASIA_FOUNDER_CERTIFICATE_GOLD",
+      "Name": "Gold Founder's Certificate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_HORSE_FOUNDER_ASIA_SILVER",
+      "Name": "Sailor's Horse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SKIN_HORSE_FOUNDER_ASIA_SILVER",
+      "Name": "Riding Horse Skin: Sailor's Horse",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ASIA_FOUNDER_CERTIFICATE_SILVER",
+      "Name": "Silver Founder's Certificate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_ASIA_FOUNDER_CERTIFICATE_BRONZE",
+      "Name": "Bronze Founder's Certificate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_PVE_GOLD",
+      "Name": "Gold Monster Slayer Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_PVE_SILVER",
+      "Name": "Silver Monster Slayer Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_PVE_BRONZE",
+      "Name": "Bronze Monster Slayer Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_GATHERING_GOLD",
+      "Name": "Gold Gathering Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_GATHERING_SILVER",
+      "Name": "Silver Gathering Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_GATHERING_BRONZE",
+      "Name": "Bronze Gathering Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_SILVER_GOLD",
+      "Name": "Gold Trader Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_SILVER_SILVER",
+      "Name": "Silver Trader Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_BETAREWARD_SILVER_BRONZE",
+      "Name": "Bronze Trader Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_HEAD_VANITY_WARRIOR_KING",
+      "Name": "Paragon's Crown",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_ARMOR_VANITY_WARRIOR_KING",
+      "Name": "Paragon's Armor",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_SHOES_VANITY_WARRIOR_KING",
+      "Name": "Paragon's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CAPE_VANITY_WARRIOR_KING",
+      "Name": "Paragon's Sword and Cape",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_ARMORED_HORSE_PEGASUS_LIGHT",
+      "Name": "Armored Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_HEAD_VANITY_WARRIOR_KING",
+      "Name": "Wardrobe Skin: Paragon's Crown",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_ARMOR_VANITY_WARRIOR_KING",
+      "Name": "Wardrobe Skin: Paragon's Armor",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SHOES_VANITY_WARRIOR_KING",
+      "Name": "Wardrobe Skin: Paragon's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_CAPE_VANITY_WARRIOR_KING",
+      "Name": "Wardrobe Skin: Paragon's Sword and Cape",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SKIN_ARMORED_HORSE_PEGASUS_LIGHT",
+      "Name": "Armored Horse Skin: Armored Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_HEAD_VANITY_WARRIOR_KNIGHT",
+      "Name": "Champion's Visage",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_ARMOR_VANITY_WARRIOR_KNIGHT",
+      "Name": "Champion's Armor",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_SHOES_VANITY_WARRIOR_KNIGHT",
+      "Name": "Champion's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CAPE_VANITY_WARRIOR_KNIGHT",
+      "Name": "Champion's Sword and Cape",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_HEAD_VANITY_WARRIOR_KNIGHT",
+      "Name": "Wardrobe Skin: Champion's Visage",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_ARMOR_VANITY_WARRIOR_KNIGHT",
+      "Name": "Wardrobe Skin: Champion's Armor",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SHOES_VANITY_WARRIOR_KNIGHT",
+      "Name": "Wardrobe Skin: Champion's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_CAPE_VANITY_WARRIOR_KNIGHT",
+      "Name": "Wardrobe Skin: Champion's Sword and Cape",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_HORSE_PEGASUS_LIGHT",
+      "Name": "Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SKIN_HORSE_PEGASUS_LIGHT",
+      "Name": "Riding Horse Skin: Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_HEAD_VANITY_DARK_SORCERER",
+      "Name": "Harbinger's Crown",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_ARMOR_VANITY_DARK_SORCERER",
+      "Name": "Harbinger's Robes",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_SHOES_VANITY_DARK_SORCERER",
+      "Name": "Harbinger's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CAPE_VANITY_DARK_SORCERER",
+      "Name": "Harbinger's Staff and Cape",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_ARMORED_HORSE_PEGASUS_DARK",
+      "Name": "Armored Shadow Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_HEAD_VANITY_DARK_SORCERER",
+      "Name": "Wardrobe Skin: Harbinger's Crown",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_ARMOR_VANITY_DARK_SORCERER",
+      "Name": "Wardrobe Skin: Harbinger's Robes",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SHOES_VANITY_DARK_SORCERER",
+      "Name": "Wardrobe Skin: Harbinger's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_CAPE_VANITY_DARK_SORCERER",
+      "Name": "Wardrobe Skin: Harbinger's Staff and Cape",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SKIN_ARMORED_HORSE_PEGASUS_DARK",
+      "Name": "Armored Horse Skin: Armored Shadow Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_HEAD_VANITY_DARK_NOVICE",
+      "Name": "Warlock's Circlet",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_ARMOR_VANITY_DARK_NOVICE",
+      "Name": "Warlock's Robes",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_SHOES_VANITY_DARK_NOVICE",
+      "Name": "Warlock's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_CAPE_VANITY_DARK_NOVICE",
+      "Name": "Warlock's Staff and Cape",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_HEAD_VANITY_DARK_NOVICE",
+      "Name": "Wardrobe Skin: Warlock's Circlet",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_ARMOR_VANITY_DARK_NOVICE",
+      "Name": "Wardrobe Skin: Warlock's Robes",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SHOES_VANITY_DARK_NOVICE",
+      "Name": "Wardrobe Skin: Warlock's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_CAPE_VANITY_DARK_NOVICE",
+      "Name": "Wardrobe Skin: Warlock's Staff and Cape",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_HORSE_PEGASUS_DARK",
+      "Name": "Shadow Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_UNLOCK_SKIN_HORSE_PEGASUS_DARK",
+      "Name": "Riding Horse Skin: Shadow Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_LIGHT_FOUNDER_CERTIFICATE",
+      "Name": "Light Founder's Certificate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_DARK_FOUNDER_CERTIFICATE",
+      "Name": "Dark Founder's Certificate",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_LIGHT_FOUNDER_STATUE",
+      "Name": "Light Founder's Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_FURNITUREITEM_DARK_FOUNDER_STATUE",
+      "Name": "Dark Founder's Statue",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_ARMORED_HORSE_PEGASUS_TWILIGHT",
+      "Name": "Armored Goldmane Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_HORSE_PEGASUS_TWILIGHT",
+      "Name": "Goldmane Pegasus",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_COUGAR_JADE_GUARDIAN",
+      "Name": "Jade Guardian",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_HORSE_MONK_FIRE",
+      "Name": "Ember Mare",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "SKIN_COUGAR_SHADOWCAT_ORANGE",
+      "Name": "Amberpaw",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_INTERNAL_HEAD_GAMEMASTER",
+      "Name": "Game Master's Hat",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_INTERNAL_ARMOR_GAMEMASTER",
+      "Name": "Game Master's Doublet",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_INTERNAL_SHOES_GAMEMASTER",
+      "Name": "Game Master's Boots",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "UNIQUE_INTERNAL_OFF_SCROLL_GAMEMASTER",
+      "Name": "Scroll of the Law",
+      "Tier": "",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T2_HEAD_PLATE_SET1",
+      "Name": "Novice's Soldier Helmet",
+      "Tier": "2.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_HEAD_PLATE_SET1",
+      "Name": "Journeyman's Soldier Helmet",
+      "Tier": "3.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_HEAD_PLATE_SET1",
+      "Name": "Adept's Soldier Helmet",
+      "Tier": "4.0",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_HEAD_PLATE_SET1@1",
+      "Name": "Adept's Soldier Helmet",
+      "Tier": "4.1",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_HEAD_PLATE_SET1@2",
+      "Name": "Adept's Soldier Helmet",
+      "Tier": "4.2",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_HEAD_PLATE_SET1@3",
+      "Name": "Adept's Soldier Helmet",
+      "Tier": "4.3",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_HEAD_PLATE_SET1@4",
+      "Name": "Adept's Soldier Helmet",
+      "Tier": "4.4",
+      "Category": "farming",
+      "SubCategory": "furniture",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    }
+  ]
+}
