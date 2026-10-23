@@ -4,7 +4,8 @@
 
 #include "Tabs/craftingPriceCalc.h"
 
-#include "../enums/windowEnums.h"
+#include "../data/windowEnums.h"
+#include "Tabs/editData.h"
 
 
 static std::string message = "Hello";
@@ -23,6 +24,12 @@ void render(ImVec2 windowSize) {
                 craftingCalc::init();
             }
         }
+        if (ImGui::Button("edit Data")) {
+            if (window != CHANGE_DATA) {
+                window = CHANGE_DATA;
+                edit::init();
+            }
+        }
         ImGui::End();
     }
 
@@ -33,6 +40,9 @@ void render(ImVec2 windowSize) {
         switch (window) {
             case CRAFTING_PRICE_CALC:
                 craftingCalc::draw();
+                break;
+            case CHANGE_DATA:
+                edit::draw();
                 break;
             default:
                 std::cout << "Error: no tab selected" << std::endl;

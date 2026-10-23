@@ -12,7 +12,7 @@ link_libraries(${JSONCPP_LIBRARIES})
 
 set(CMAKE_CXX_STANDARD 20)
 
-file(GLOB sources *.cpp data/*.cpp gui/*.cpp gui/Tabs/*.cpp)
+file(GLOB sources *.cpp data/*.cpp gui/*.cpp gui/Tabs/*.cpp gui/algo/*.cpp)
 
 add_executable(${PROJECT_NAME} ${sources}
 )

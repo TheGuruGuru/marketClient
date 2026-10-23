@@ -106742,8 +106742,6 @@
       }
     ]
   },
-none
-none
   {
     "UniqueName": "T3_FURNITUREITEM_TROPHY_GENERAL",
     "name": "Magical Tome",
@@ -108263,6 +108261,3 @@ none
     ]
   }
 ]
-
-loot
-artifacts

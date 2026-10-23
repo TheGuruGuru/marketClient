@@ -4923,6 +4923,21 @@
       ]
     },
     {
+      "UniqueName": "T8_MEAL_STEW_AVALON@2",
+      "Name": "Avalonian Beef Stew",
+      "Tier": "8.2",
+      "Category": "food",
+      "SubCategory": "food",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
       "UniqueName": "T8_MEAL_STEW_AVALON@3",
       "Name": "Avalonian Beef Stew",
       "Tier": "8.3",
@@ -5373,6 +5388,21 @@
       ]
     },
     {
+      "UniqueName": "T6_MEAL_SANDWICH_AVALON@1",
+      "Name": "Avalonian Mutton Sandwich",
+      "Tier": "6.1",
+      "Category": "food",
+      "SubCategory": "",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
       "UniqueName": "T6_MEAL_SANDWICH_AVALON@2",
       "Name": "Avalonian Mutton Sandwich",
       "Tier": "6.2",
@@ -5673,6 +5703,21 @@
       ]
     },
     {
+      "UniqueName": "T3_MEAL_ROAST_FISH@2",
+      "Name": "Roasted Whitefog Snapper",
+      "Tier": "3.2",
+      "Category": "food",
+      "SubCategory": "",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
       "UniqueName": "T3_MEAL_ROAST_FISH@3",
       "Name": "Roasted Whitefog Snapper",
       "Tier": "3.3",
@@ -5828,55 +5873,6 @@
       "Tier": "3.0",
       "Category": "food",
       "SubCategory": "food",
-      "nutritionNeeded": 0,
-      "nutrition": 0,
-      "Recipe": [
-        {
-          "UniqueName": "",
-          "Amount": 0
-        }
-      ]
-    }
-  ],
-  "ood": [
-    {
-      "UniqueName": "T8_MEAL_STEW_AVALON@2",
-      "Name": "Avalonian Beef Stew",
-      "Tier": "8.2",
-      "Category": "food",
-      "SubCategory": "ood",
-      "nutritionNeeded": 0,
-      "nutrition": 0,
-      "Recipe": [
-        {
-          "UniqueName": "",
-          "Amount": 0
-        }
-      ]
-    }
-  ],
-  "uncategorized": [
-    {
-      "UniqueName": "T6_MEAL_SANDWICH_AVALON@1",
-      "Name": "Avalonian Mutton Sandwich",
-      "Tier": "6.1",
-      "Category": "food",
-      "SubCategory": "",
-      "nutritionNeeded": 0,
-      "nutrition": 0,
-      "Recipe": [
-        {
-          "UniqueName": "",
-          "Amount": 0
-        }
-      ]
-    },
-    {
-      "UniqueName": "T3_MEAL_ROAST_FISH@2",
-      "Name": "Roasted Whitefog Snapper",
-      "Tier": "3.2",
-      "Category": "food",
-      "SubCategory": "",
       "nutritionNeeded": 0,
       "nutrition": 0,
       "Recipe": [

@@ -693,7 +693,7 @@
       ]
     }
   ],
-  "materials": [
+  "wood": [
     {
       "UniqueName": "T1_WOOD",
       "Name": "Rough Logs",
@@ -708,9 +708,7 @@
           "Amount": 0
         }
       ]
-    }
-  ],
-  "wood": [
+    },
     {
       "UniqueName": "T2_WOOD",
       "Name": "Birch Logs",
@@ -1841,11 +1839,11 @@
       ]
     },
     {
-      "UniqueName": "T8_ORE_LEVEL4@4",
-      "Name": "Pristine Adamantium Ore",
-      "Tier": "8.4",
+      "UniqueName": "T7_ORE_LEVEL4@4",
+      "Name": "Pristine Meteorite Ore",
+      "Tier": "7.4",
       "Category": "gathering",
-      "SubCategory": "ore",
+      "SubCategory": "043",
       "nutritionNeeded": 0,
       "nutrition": 0,
       "Recipe": [
@@ -1854,15 +1852,13 @@
           "Amount": 0
         }
       ]
-    }
-  ],
-  "043": [
+    },
     {
-      "UniqueName": "T7_ORE_LEVEL4@4",
-      "Name": "Pristine Meteorite Ore",
-      "Tier": "7.4",
+      "UniqueName": "T8_ORE_LEVEL4@4",
+      "Name": "Pristine Adamantium Ore",
+      "Tier": "8.4",
       "Category": "gathering",
-      "SubCategory": "043",
+      "SubCategory": "ore",
       "nutritionNeeded": 0,
       "nutrition": 0,
       "Recipe": [

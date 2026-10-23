@@ -36,8 +36,5 @@ def make():
     with open("./newitems.json", "w", encoding="utf-8") as f:
         json.dump(new_items, f, indent=2, ensure_ascii=False)
 
-def sort():
-    return
-
 if __name__ == "__main__":
-    getsubcats()
+    make()

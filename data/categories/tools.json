@@ -1,6 +1,201 @@
 {
   "cape": [
     {
+      "UniqueName": "T2_CAPE",
+      "Name": "Novice's Cape",
+      "Tier": "2.0",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T3_CAPE",
+      "Name": "Journeyman's Cape",
+      "Tier": "3.0",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CAPE",
+      "Name": "Adept's Cape",
+      "Tier": "4.0",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CAPE@1",
+      "Name": "Adept's Cape",
+      "Tier": "4.1",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CAPE@2",
+      "Name": "Adept's Cape",
+      "Tier": "4.2",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CAPE@3",
+      "Name": "Adept's Cape",
+      "Tier": "4.3",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_CAPE@4",
+      "Name": "Adept's Cape",
+      "Tier": "4.4",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CAPE",
+      "Name": "Expert's Cape",
+      "Tier": "5.0",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CAPE@1",
+      "Name": "Expert's Cape",
+      "Tier": "5.1",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CAPE@2",
+      "Name": "Expert's Cape",
+      "Tier": "5.2",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CAPE@3",
+      "Name": "Expert's Cape",
+      "Tier": "5.3",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T5_CAPE@4",
+      "Name": "Expert's Cape",
+      "Tier": "5.4",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T6_CAPE",
+      "Name": "Master's Cape",
+      "Tier": "6.0",
+      "Category": "hunter",
+      "SubCategory": "torch",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
       "UniqueName": "T6_CAPE@1",
       "Name": "Master's Cape",
       "Tier": "6.1",

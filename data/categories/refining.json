@@ -500,9 +500,7 @@
           "Amount": 0
         }
       ]
-    }
-  ],
-  "uncategorized": [
+    },
     {
       "UniqueName": "T6_PLANKS_LEVEL3@3",
       "Name": "Exceptional Bloodoak Planks",
@@ -1830,10 +1828,7 @@
           "Amount": 0
         }
       ]
-    }
-  ],
-  "ccloth": [
-    {
+    }, {
       "UniqueName": "T5_CLOTH_LEVEL2@2",
       "Name": "Rare Ornate Cloth",
       "Tier": "5.2",

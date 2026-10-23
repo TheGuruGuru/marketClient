@@ -104,10 +104,7 @@
           "Amount": 0
         }
       ]
-    }
-  ],
-  "  tome": [
-    {
+    },{
       "UniqueName": "T5_OFF_BOOK",
       "Name": "Expert's Tome of Spells",
       "Tier": "5.0",

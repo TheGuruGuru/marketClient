@@ -13578,26 +13578,7 @@
           "Amount": 0
         }
       ]
-    }
-  ],
-  "loot": [
-    {
-      "UniqueName": "T4_ARTEFACT_2H_SHAPESHIFTER_MORGANA",
-      "Name": "Adept's Werewolf Remnant",
-      "Tier": "4.0",
-      "Category": "loot",
-      "SubCategory": "loot",
-      "nutritionNeeded": 0,
-      "nutrition": 0,
-      "Recipe": [
-        {
-          "UniqueName": "",
-          "Amount": 0
-        }
-      ]
-    }
-  ],
-  "uncategorized": [
+    },
     {
       "UniqueName": "T7_ARTEFACT_ARMOR_LEATHER_FEY",
       "Name": "Grandmaster's Untarnished Griffin Feathers",
@@ -13664,6 +13645,21 @@
       "Tier": "8.0",
       "Category": "loot",
       "SubCategory": "",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_ARTEFACT_2H_SHAPESHIFTER_MORGANA",
+      "Name": "Adept's Werewolf Remnant",
+      "Tier": "4.0",
+      "Category": "loot",
+      "SubCategory": "loot",
       "nutritionNeeded": 0,
       "nutrition": 0,
       "Recipe": [
@@ -13773,6 +13769,21 @@
       "Tier": "4.0",
       "Category": "loot",
       "SubCategory": "rune",
+      "nutritionNeeded": 0,
+      "nutrition": 0,
+      "Recipe": [
+        {
+          "UniqueName": "",
+          "Amount": 0
+        }
+      ]
+    },
+    {
+      "UniqueName": "T4_SHARD_CRYSTAL",
+      "Name": "Adept's Crystal Shard",
+      "Tier": "4.0",
+      "Category": "loot",
+      "SubCategory": "eune",
       "nutritionNeeded": 0,
       "nutrition": 0,
       "Recipe": [
@@ -14253,23 +14264,6 @@
       "Tier": "8.0",
       "Category": "loot",
       "SubCategory": "rune",
-      "nutritionNeeded": 0,
-      "nutrition": 0,
-      "Recipe": [
-        {
-          "UniqueName": "",
-          "Amount": 0
-        }
-      ]
-    }
-  ],
-  "eune": [
-    {
-      "UniqueName": "T4_SHARD_CRYSTAL",
-      "Name": "Adept's Crystal Shard",
-      "Tier": "4.0",
-      "Category": "loot",
-      "SubCategory": "eune",
       "nutritionNeeded": 0,
       "nutrition": 0,
       "Recipe": [
