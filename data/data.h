@@ -7,6 +7,7 @@ namespace Data {
     Json::Value decodeJson(std::string message);
     Json::Value readJson(const char* path);
     Json::Value getItemData(std::string name);
+    std::string getItemSubCategory(std::string uName);
     int getItemPrice(std::string city, std::string uName);
     void setItemData(Json::Value item);
     void setItemPrice(std::string city, std::string uName, int price);

@@ -57,6 +57,20 @@ Json::Value Data::readJson(const char* path) {
      return decodeJson(fileContents);
 }
 
+std::string Data::getItemSubCategory(std::string name) {
+     Json::Value root;
+     std::string subCat = "";
+
+     for (auto &item : *pItems) { //get subcategory of item
+          if (item[5] == name) {
+               subCat = item[1];
+               break;
+          }
+     }
+
+     return subCat;
+}
+
 Json::Value Data::getItemData(std::string name) {
      Json::Value root;
      std::string cat = "";

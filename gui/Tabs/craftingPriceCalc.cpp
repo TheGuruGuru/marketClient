@@ -13,6 +13,8 @@ static int currentCity = 0;
 static int totalPriceCraft = 0;
 static int totalPriceBuy = 0;
 
+static std::string rrCats[] = {"planks", "bars", "cloth", "leather"};
+
 
 void craftingCalc::init() {
     search::init();
@@ -56,7 +58,10 @@ void craftingCalc::draw() {
         int price = 0;
         for (auto &it : items[i]["Recipe"]) {
             int add = Data::getItemPrice(cities[currentCity], it["UniqueName"].asString()) * it["Amount"].asInt();
-            price += add;
+
+            if (rrCats->find(Data::getItemSubCategory(it["UniqueName"].asString())) != std::string::npos) price += add * 0.85;
+            else price += add;
+
             ImGui::Text("price: %i" , add);
             ImGui::SameLine();
             ImGui::Text("(%i *", Data::getItemPrice(cities[currentCity], it["UniqueName"].asString()));
