@@ -14,6 +14,8 @@ static std::vector<std::string> newIngridient;
 static std::vector<int> amounts;
 static int newNutrition = 0;
 static int newNutritionNeeded = 0;
+static std::array<int, 7> prices;
+static std::array<std::string, 7> cities = {"blackMarket", "bridgewatch", "caerleon", "fortsterling", "lymhurst", "martlock", "thetfort"};
 
 void edit::init() {
     search::init();
@@ -38,6 +40,10 @@ void edit::draw() {
             newIngridient.push_back(item["UniqueName"].asString());
             amounts.push_back(item["Amount"].asInt());
         }
+
+        for (int i = 0; i < cities.size(); i++) {
+            prices[i] = Data::getItemPrice(cities[i], ItemData["UniqueName"].asString());
+        }
     }
 
     if (itemSet) {
@@ -52,7 +58,12 @@ void edit::draw() {
         ImGui::InputInt("edit nutrition", &newNutrition);
         ImGui::InputInt("edit nutrition needed", &newNutritionNeeded);
 
-        ImGui::Text("\n");
+        ImGui::Text("\n\nPrices:");
+        for (int i = 0; i < cities.size(); i++) {
+            ImGui::InputInt(cities[i].c_str(), &prices[i]);
+        }
+
+        ImGui::Text("\n\n");
         ImGui::Text("\ncurrent Recipe:\n");
         for (auto &item : ItemData["Recipe"]) {
             ImGui::Text("   %s x %i", item["UniqueName"].asCString(), item["Amount"].asInt());
@@ -61,7 +72,6 @@ void edit::draw() {
         ImGui::Text("\nedit recipe:\n");
         std::string ing = search::search("add ingriedient");
 
-        ImGui::Text("\n\n");
         if (ing != "") {
             if (std::find(newIngridient.begin(), newIngridient.end(), ing) == newIngridient.end()) {
                 Json::Value ingriedient = Data::getItemData(ing);
@@ -118,9 +128,14 @@ void edit::draw() {
 
             newIngridient.clear();
             amounts.clear();
+
+            //change prices
+            for (int i = 0; i < cities.size(); i++) {
+                 Data::setItemPrice(cities[i], ItemData["UniqueName"].asString(), prices[i]);
+            }
         }
 
-        ImGui::Text("\n\n");
+        ImGui::Text("\n");
         if (ImGui::Button("unload item")) {
             itemSet = false;
         }

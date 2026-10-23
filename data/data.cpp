@@ -4,7 +4,7 @@
 #include <fstream>
 #include <cpp-httplib/httplib.h>
 
-static std::vector<std::array<std::string, 4>>* pItems = new std::vector<std::array<std::string, 4>> {};
+static std::vector<std::array<std::string, 5>>* pItems = new std::vector<std::array<std::string, 5>> {};
 static std::vector<std::array<std::string, 2>>* pSubCats = new std::vector<std::array<std::string, 2>> {{"none", "all"}};
 static std::vector<std::string>* pCategories = new std::vector<std::string> {"none" };
 static httplib::Client cli("https://europe.albion-online-data.com");
@@ -56,7 +56,6 @@ Json::Value Data::readJson(const char* path) {
 
      return decodeJson(fileContents);
 }
-
 
 Json::Value Data::getItemData(std::string name) {
      Json::Value root;
@@ -149,6 +148,27 @@ void Data::setItemData(Json::Value Item) {
 
 }
 
+int Data::getItemPrice(std::string city, std::string uName) {
+     Json::Value root;
+     root = readJson(("../data/prices/" + city + ".json").c_str());
+
+     return root[uName].asInt();
+}
+
+void Data::setItemPrice(std::string city, std::string uName, int price) {
+     Json::Value root;
+     root = readJson(("../data/prices/" + city + ".json").c_str());
+
+     root[uName] = price;
+
+     std::ofstream file_id("../data/prices/" + city + ".json");
+
+     Json::StyledWriter styledWriter;
+     file_id << styledWriter.write(root);
+
+     file_id.close();
+}
+
 void Data::makeCats() {
      for (const auto & entry : std::filesystem::directory_iterator("../data/categories")){
           std::string name = entry.path().filename().replace_extension("").string();
@@ -182,7 +202,7 @@ void Data::makeCats() {
                                    tokens.push_back("0");
                               }
 
-                              pItems->push_back({item["Name"].asString() + " " + item["Tier"].asString(), subCat, tokens[0], tokens[1]});
+                              pItems->push_back({item["Name"].asString() + " " + item["Tier"].asString(), subCat, tokens[0], tokens[1], item["UniqueName"].asString()});
                          }
                     }
                }
@@ -199,6 +219,6 @@ std::vector<std::array<std::string, 2>>* Data::getSubCats() {
      return pSubCats;
 }
 
-std::vector<std::array<std::string, 4>>* Data::getItems() {
+std::vector<std::array<std::string, 5>>* Data::getItems() {
      return pItems;
 }

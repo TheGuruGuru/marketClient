@@ -4,16 +4,14 @@ def main():
     with open("./items.json", "r", encoding="utf-8") as f:
         items = json.load(f)
 
-    new_items = []
+    new_items = {}
     for item in items:
         unique_name = item.get("UniqueName") or ""
         if not unique_name:
             continue
 
-        new_items.append({
-            "UniqueName": unique_name,
-            "price": 0
-        })
+        new_items.update({unique_name: 0})
+
 
     with open("../../data/prices/bridgewatch.json", "w", encoding="utf-8") as f:
         json.dump(new_items, f, indent=2, ensure_ascii=False)

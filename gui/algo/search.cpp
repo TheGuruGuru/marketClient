@@ -18,7 +18,7 @@ static int selectedEnchant = 0;
 
 static std::vector<std::string>* pCategories;
 static std::vector<std::array<std::string, 2>>* pSubCats;
-static std::vector<std::array<std::string, 4>>* pItems;
+static std::vector<std::array<std::string, 5>>* pItems;
 
 static char* buf;
 
@@ -35,7 +35,7 @@ void search::init() {
 
 std::string search::search(std::string prompt) {
     ImGui::Text("Filter search");
-    ImGui::SetNextItemWidth(200);
+    ImGui::SetNextItemWidth(300);
     if (ImGui::BeginCombo("Category", pCategories->at(currentItemCat).c_str())) {
         for (int i = 0; i < pCategories->size(); i++) {
             if (ImGui::Selectable(pCategories->at(i).c_str())) {
@@ -56,7 +56,7 @@ std::string search::search(std::string prompt) {
         }
     }
 
-    ImGui::SetNextItemWidth(200);
+    ImGui::SetNextItemWidth(300);
     if (ImGui::BeginCombo("subCategory", sc.at(currentItemSubCat).c_str())) {
         for (int i = 0; i < sc.size(); i++) {
             if (ImGui::Selectable(sc.at(i).c_str())) {
@@ -67,7 +67,7 @@ std::string search::search(std::string prompt) {
         ImGui::EndCombo();
     }
 
-    ImGui::SetNextItemWidth(200);
+    ImGui::SetNextItemWidth(300);
     if (ImGui::BeginCombo("Tiers", tiers[selectedTier])) {
         for (int i = 0; i < 9; i++) {
             if (ImGui::Selectable(tiers[i])) {
@@ -80,7 +80,7 @@ std::string search::search(std::string prompt) {
 
     ImGui::SameLine();
 
-    ImGui::SetNextItemWidth(200);
+    ImGui::SetNextItemWidth(300);
     if (ImGui::BeginCombo("Enchantement", enchants[selectedEnchant])) {
         for (int i = 0; i < 6; i++) {
             if (ImGui::Selectable(enchants[i])) {
@@ -123,7 +123,7 @@ std::string search::search(std::string prompt) {
         it.push_back("none");
     }
 
-    ImGui::SetNextItemWidth(200);
+    ImGui::SetNextItemWidth(300);
     if (ImGui::BeginCombo("Item", it.at(currentItem).c_str())) {
         for (int i = 0; i < it.size(); i++) {
             if (ImGui::Selectable(it.at(i).c_str())) {
